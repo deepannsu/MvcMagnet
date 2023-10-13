@@ -17,3 +17,4 @@ Deepanshu
 2023-10-13 2:56 Create a database context class
 2023-10-13 3:00 Register the database context
 2023-10-13 3:01 Add a connection string
+2023-10-13 4:00 updated magnet.cs and fixed errors in multiple files

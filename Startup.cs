@@ -1,4 +1,4 @@
-using MvcMovie.Data;
+using MvcMagnet.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -27,8 +27,8 @@ namespace MvcMagnet
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<MvcMovieContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("MvcMovieContext")));
+            services.AddDbContext<MvcMagnetContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("MvcMagnetContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

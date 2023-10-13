@@ -1,16 +1,16 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace MvcMovie.Models
+namespace MvcMagnet.Models
 {
-    public class Movie
+    public class Magnet
     {
         public int Id { get; set; }
         public string Title { get; set; }
 
-        [DataType(DataType.Date)]
-        public DateTime ReleaseDate { get; set; }
-        public string Genre { get; set; }
+        public string Life { get; set; }
+        public string type { get; set; }
+        public string color { get; set; }
         public decimal Price { get; set; }
     }
 }
