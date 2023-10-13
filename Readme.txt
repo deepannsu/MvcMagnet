@@ -15,3 +15,4 @@ Deepanshu
 2023-10-13 2:36 Created and updated welcome.cshtml
 2023-10-13 2:46 Add a data model class
 2023-10-13 2:56 Create a database context class
+2023-10-13 3:00 Register the database context
