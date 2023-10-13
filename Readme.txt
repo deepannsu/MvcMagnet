@@ -9,3 +9,4 @@ Deepanshu
 2023-10-13 1:42 Change the welcome method
 2023-10-13 2:00 created and updated index.cshtml
 2023-10-23 2:12 updated HelloWorldController.cs
+2023-10-23 2:20 Change the title, footer, and menu link in the layout file
