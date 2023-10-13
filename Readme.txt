@@ -13,3 +13,4 @@ Deepanshu
 2023-10-13 2:29 Updated index.cs html
 2023-10-13 2:33 Updated HelloWorldController.cs
 2023-10-13 2:36 Created and updated welcome.cshtml
+2023-10-13 2:46 Add a data model class
